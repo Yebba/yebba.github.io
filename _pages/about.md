@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 2nd year HCI PhD Student, Computer and Information Sciences, University of Delaware
 
 profile:
   align: left
   image: AL_prof_pic.jpg
-  image_circular: True # crops the image to make it circular
+  image_circular: False # crops the image to make it circular
   more_info: >
     <p>555 your office number</p>
     <p>123 your address street</p>
